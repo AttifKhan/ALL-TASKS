@@ -1,0 +1,21 @@
+Document containing links of all tasks
+
+TASK:1)  Write code in Python that can send WhatsApp messages, send emails, and send SMS messages to a number.
+LINK  https://github.com/AttifKhan/send-WhatsApp-messages-send-emails-and-send-SMS-messages-to-a-number
+
+TASK:2) How to store the output of a command in a variable using Python
+LINK  https://github.com/AttifKhan/Task-2-subprocess
+
+TASK:3)  Create your very own API using any technologies you're familiar with. You can start by running commands like date, cal, docker, and more.
+LINK  https://github.com/AttifKhan/Task-3-API
+
+TASK:4) Using while loop try to run two function  parallelly(using Multi Threading)
+LINK  https://github.com/AttifKhan/Task-4-Multithreading
+
+TASK:5) Module to create graphical interface (tkinter)
+create menu into graphical interface(for non thecreatorproject learners).
+LINK  https://github.com/AttifKhan/Task-5-Graphical-interface
+
+OTHER TASK
+TASK: MENU DRIVEN PROGRAM
+LINK  https://github.com/AttifKhan/TASK-Menu-driven-program
